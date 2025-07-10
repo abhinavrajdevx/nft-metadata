@@ -1,0 +1,9 @@
+{
+  "name": "Test NFT #1",
+  "description": "My NFT on my EVM marketplace",
+  "image": "https://yourcdn.com/nft-image.png",
+  "attributes": [
+    { "trait_type": "Background", "value": "Blue" },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}
