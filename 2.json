@@ -1,0 +1,49 @@
+{
+  "name": "Pixel Cat #1234",
+  "description": "A cute pixel art cat with unique traits from the Pixel Cats collection.",
+  "image": "https://images.pexels.com/photos/17072767/pexels-photo-17072767.png?_gl=1*y3zqra*_ga*MTIyMzYzOTUwMS4xNzUwNjg3MjQx*_ga_8JE65Q40S6*czE3NTI1NjY3ODEkbzgkZzEkdDE3NTI1NjY5MDUkajYwJGwwJGgw",
+  "external_url": "https://pixelcats.com/cat/1234",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Orange Tabby"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Bow Tie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "collection": {
+    "name": "Pixel Cats",
+    "family": "Pixel Cats Collection"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "0x1234567890abcdef1234567890abcdef12345678",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/QmYx6GsYAKnNzZ9A6NvETC4WiNMFWdu3nzGZwVoEi1hEh8",
+        "type": "image/png"
+      }
+    ]
+  },
+  "seller_fee_basis_points": 500,
+  "symbol": "PXCAT"
+}
